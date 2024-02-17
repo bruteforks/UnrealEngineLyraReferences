@@ -15,6 +15,8 @@
 Xist's website on Lyra - https://x157.github.io/   
 Lyra Dev Net Discord Server - https://discord.gg/j6V8GkNtMC
 
+Lots of great Lyra reference material https://github.com/DeveloperBastian/Unreal-Lyra-Concepts
+
 Full Lyra-based project with UE best practices - https://github.com/JediKnightChan/EternalCrusadeResurrection
 
 Not a direct Lyra reference, but covers a lot of systems inside of Lyra. With nice infographics https://github.com/drstreit/unreal_schematics
