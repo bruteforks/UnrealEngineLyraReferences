@@ -19,7 +19,7 @@ Lots of great Lyra reference material https://github.com/DeveloperBastian/Unreal
 
 Full Lyra-based project with UE best practices - https://github.com/JediKnightChan/EternalCrusadeResurrection
 
-Not a direct Lyra reference, but covers a lot of systems inside of Lyra. With nice infographics https://github.com/drstreit/unreal_schematics
+Not a direct Lyra reference, but covers a lot of systems inside of Lyra. [With nice Infographics](https://github.com/bruteforks/UnrealEngineLyraReferences/tree/main/PDF/UnrealSchematics)
 
 GameplayAbilitySystem plugin unofficial documentation  https://github.com/tranek/GASDocumentation
 
