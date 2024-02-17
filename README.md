@@ -19,4 +19,6 @@ Full Lyra-based project with UE best practices - https://github.com/JediKnightCh
 
 Not a direct Lyra reference, but covers a lot of systems inside of Lyra. With nice infographics https://github.com/drstreit/unreal_schematics
 
+GameplayAbilitySystem plugin unofficial documentation  https://github.com/tranek/GASDocumentation
+
 # More to come - Work in progress
